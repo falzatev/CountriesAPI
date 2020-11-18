@@ -1,0 +1,13 @@
+.main-menu {
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  padding: 2em;
+}
+.dark-mode {
+  display: flex;
+  justify-content: space-around;
+}
+.dark-mode p {
+  margin-left: 1em;
+}
